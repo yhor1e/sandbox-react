@@ -5,3 +5,6 @@
 
 * react-tutorial
   https://facebook.github.io/react/docs/tutorial.html
+
+* react-training
+  https://github.com/ryanflorence/react-training
